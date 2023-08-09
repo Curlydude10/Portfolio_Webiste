@@ -1,2 +1,3 @@
-# Portfolio_Webiste
-Portfolio Website to serve as a supplement to my resume
+# Portfolio_Website
+## Portfolio Website to serve as a digital resume
+This project will be a place for me to display work that I am particularly proud of. Additionally it will be a great chance to learn web dev and website design as I hope to build a site that is both functional and aesthetically pleasing. We shall see how the adventure unfolds, but hopefully at the end this project will be both fun and help me get a job.
